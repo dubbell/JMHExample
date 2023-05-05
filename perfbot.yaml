@@ -1,1 +1,2 @@
 buildTool: maven
+options: ExampleJMH.measureSingleShot2
